@@ -1,5 +1,5 @@
 
-Čvorovi – pašnjak, vrzni, zastavni, muški, sidreni, plutačni čvor i osmica
+Čvorovi – pašnjak, vrzni, zastavni, muški, sidreni, plutačni,  osmica
 ---
 sea master class cvor
 
@@ -40,3 +40,7 @@ osmica
   - na kraj konopa da ne procuri kroz otvor/koloturu
 
 
+A Perfect Cleat Hitch
+  - https://www.youtube.com/watch?v=KaF9lFn0Inw
+  - bitva broda
+  
