@@ -65,6 +65,10 @@ sea master class cvor
 https://www.youtube.com/watch?v=Vw23pN8vPFc 
 
 
+- open sea map
+https://map.openseamap.org/index.php?lang=en
+
+
 - citanje sinopticke karte
 https://www.google.com/search?client=ubuntu-sn&hs=3Pi&sca_esv=f1335be37f2cdbad&channel=fs&sxsrf=ADLYWIJSZZvqlqMHHpvnM2deFSgzn8kMiA:1729461039217&q=synoptic+card+how+to+read&sa=X&ved=2ahUKEwjgypS3-J2JAxUERvEDHeWBMJMQ7xYoAHoECAkQAQ&biw=1541&bih=806&dpr=1.2#fpstate=ive&vld=cid:efd63708,vid:g4RGTrHochg,st:0
 
