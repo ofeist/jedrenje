@@ -1,22 +1,20 @@
 # jedrenje
 
 
-- pravila izbjegavanja (collision regulations)
+## pravila izbjegavanja (collision regulations)
 https://www.youtube.com/watch?v=rYPTsVTPWqo
 
 
-- raising the mainsail
+## raising the mainsail
 https://www.youtube.com/watch?v=6s7pEnxRjtw
 
 
-- unfurling a headsail
+## unfurling a headsail
 https://www.youtube.com/watch?v=4FMrRx4GYVU
 
 
-
-- Čvorovi – pašnjak, vrzni, zastavni, muški, sidreni, plutačni,  osmica
----
-sea master class cvor
+## Čvorovi – pašnjak, vrzni, zastavni, muški, sidreni, plutačni,  osmica
+sea master class
 
 - pašnjak / bowline knot
   - https://www.youtube.com/watch?v=3gMGrA1nHjk
