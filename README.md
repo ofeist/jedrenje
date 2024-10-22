@@ -75,6 +75,10 @@ https://www.google.com/search?client=ubuntu-sn&hs=3Pi&sca_esv=f1335be37f2cdbad&c
 http://lipovscak.com/meteo/osobitosti.html
 
 
+- real lightning maps
+https://www.lightningmaps.org/
+
+
 - sail around the world
 https://www.youtube.com/watch?v=YAJvvEWs6YE&list=PLj_YFkwTaqI57pt3oWcValgmfbNxNSA5_
 
