@@ -67,16 +67,21 @@ https://www.youtube.com/watch?v=Vw23pN8vPFc
 https://map.openseamap.org/index.php?lang=en
 
 
+- sinopticka karta europe
+https://www.metoffice.gov.uk/weather/maps-and-charts/surface-pressure
+
+
 - citanje sinopticke karte
 https://www.google.com/search?client=ubuntu-sn&hs=3Pi&sca_esv=f1335be37f2cdbad&channel=fs&sxsrf=ADLYWIJSZZvqlqMHHpvnM2deFSgzn8kMiA:1729461039217&q=synoptic+card+how+to+read&sa=X&ved=2ahUKEwjgypS3-J2JAxUERvEDHeWBMJMQ7xYoAHoECAkQAQ&biw=1541&bih=806&dpr=1.2#fpstate=ive&vld=cid:efd63708,vid:g4RGTrHochg,st:0
+
+
+- real lightning maps
+https://www.lightningmaps.org/
 
 
 - plovidba u susret cikloni i s ciklonom
 http://lipovscak.com/meteo/osobitosti.html
 
-
-- real lightning maps
-https://www.lightningmaps.org/
 
 
 - sail around the world
