@@ -67,10 +67,11 @@ https://www.youtube.com/watch?v=Vw23pN8vPFc
 https://map.openseamap.org/index.php?lang=en
 
 
-- sinopticke karta europe
+- sinopticke karte europe
 https://www.metoffice.gov.uk/weather/maps-and-charts/surface-pressure
 https://www.dwd.de/EN/ourservices/hobbymet_wcharts_europe/hobbyeuropecharts.html
 https://content.meteoblue.com/en/private-customers/website-help/weather-maps/synoptic-charts
+https://www.met.ie/forecasts/atlantic-charts/precipitation-pressure
 
 
 - citanje sinopticke karte
@@ -83,7 +84,6 @@ https://www.lightningmaps.org/
 
 - plovidba u susret cikloni i s ciklonom
 http://lipovscak.com/meteo/osobitosti.html
-
 
 
 - sail around the world
