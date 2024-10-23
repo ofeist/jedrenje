@@ -103,10 +103,13 @@
  
 
 #### odlican video koji pokriva sve navedene cvorove
-(Ep18: Learn to Sail: Part 8: Basic Knots)
-https://www.youtube.com/watch?v=Vw23pN8vPFc 
+  - (Ep18: Learn to Sail: Part 8: Basic Knots)
+  - https://www.youtube.com/watch?v=Vw23pN8vPFc 
 
 
 #### sail around the world
 https://www.youtube.com/watch?v=YAJvvEWs6YE&list=PLj_YFkwTaqI57pt3oWcValgmfbNxNSA5_
+
+
+
 
